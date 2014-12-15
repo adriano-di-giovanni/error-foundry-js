@@ -1,0 +1,26 @@
+{
+  "name": "error-foundry-js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/adriano-di-giovanni/error-foundry-js",
+  "authors": [
+    "Adriano Di Giovanni <me@adrianodigiovanni.com>"
+  ],
+  "description": "A minimalistic Javascript Universal Module to create custom errors",
+  "main": "ErrorFoundry.min.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "error"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
