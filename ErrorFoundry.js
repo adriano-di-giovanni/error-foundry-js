@@ -13,6 +13,8 @@
   }
 }(this, function (ErrorFoundry) {
 
+  ErrorFoundry.VERSION = '0.1.0';
+
   ErrorFoundry.forge = function (name) {
     /* jshint -W054 */
     return (new Function('name',
